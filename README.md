@@ -1,13 +1,20 @@
-# 허두원 두번째 팀 프로젝트 : 2MS
+# 최웅렬 두번째 팀 프로젝트 : 2MS
 
 ### [ Learning Management System (교육기관 학습 종합관리시스템) ](https://www.2ms.com/)
 
 ![banner](https://github.com/doowon13/2ms/assets/83566946/c36841b6-da13-48bb-9b27-927bff51f4bf)
 
-## 프로젝트 포트폴리오
-### [ 포트폴리오 링크  ](https://www.canva.com/design/DAF5E3zDYGY/IRKQgg-jjuJDRYN6TNnp5w/view?utm_content=DAF5E3zDYGY&utm_campaign=designshare&utm_medium=link&utm_source=editor) ← Click!
-
-
+## 프로젝트 담당 역할
+> * 데이터 베이스 설계
+> * 정비 업체 공공데이터 Parser 개발 후 DB에 정비 업체 데이터 추가
+> * 위도 경도 데이터 이용으로 내 위치 주변 반경 4km 이내 정비업체 목록 및 상세 정보 출력
+> * 로그인 기능 구현(홈페이지, 카카오, 네이버, 깃허브, 구글)
+> * 회원 가입 기능 구현(소셜 로그인이 아닌 홈페이지 회원가입인 경우 이메일 인증)
+> * 비밀번호 찾기/재설정 기능 구현
+> * Spring Security와 JWT를 활용한 인증/인가 구현
+> * 관리자 업체 승인/거절 페이지 기능 구현
+> * 관리자 회원 관리 페이지 기능 구현
+> * 사용자/업체 마이페이지 기능 구헌(비밀번호 변경, 나의 정보 조회 등)
 
 ## 프로젝트 기능
 
